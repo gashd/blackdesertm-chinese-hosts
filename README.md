@@ -2,7 +2,7 @@ blackdesertm-chinese-hosts
 
 黑色沙漠M中文汉化hosts
 
-汉化来自希望之地
+汉化来自希望之地https://www.cc8.cc/forum.php?mod=viewthread&tid=393079
 
 需要先打开游戏下载完数据包后使用汉化
 
