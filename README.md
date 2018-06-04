@@ -14,4 +14,6 @@ go hosts 指定源-网络 https://raw.githubusercontent.com/gashd/blackdesertm-c
 
 点击一键安装hosts 完成汉化
 
-不需要汉化了直接在go hosts中点击恢复默认hosts即可
+root模式不需要汉化了直接在go hosts中点击恢复默认hosts重启游戏即可
+
+noroot模式关闭代理重启游戏后取消汉化
