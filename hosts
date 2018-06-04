@@ -1,3 +1,4 @@
-127.0.0.1     localhost
-::1           localhost
-47.75.190.165 krz-m-dn.blackdesertm.com
+127.0.0.1 localhost
+::1 localhost
+#blackdesertm chinese hosts
+47.75.190.165	krz-m-dn.blackdesertm.com
